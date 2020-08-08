@@ -1,0 +1,148 @@
+body{margin: 0;
+  text-align: center;
+  font-family: merriweather;
+  font-size:200%;
+}
+
+.top-contaier{background-color: #E4F9F5;
+padding-top: 100px;
+position: relative;}
+h1{margin: 100px auto 0 auto;
+font-family: Sacramento ;
+font-size:5.625rem;
+  color: #66BFBF;
+line-height: 2;}
+h2{font-family:cursive;
+  color: #66BFBF ;
+  font-size: 2.5rem;
+}
+.text{
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+}
+hr
+{
+border: dotted #EAF6F6 8px;
+border-bottom: none;
+width: 6%;
+margin:120px auto 100px auto;
+}
+
+.upper-cloud{
+  position: absolute;
+  left:250px;
+}
+.cloud{
+  position: absolute;
+top:40px;
+right: 250px;
+}
+
+.pro{border-radius: 100%;
+  position: relative;
+float: left;
+height: 50%;
+  width:40%;
+  margin: 10px 10px 100px auto;
+
+  margin-right: 30px;
+  margin-bottom: 100px;
+
+}
+.chilli{border-style: solid;
+ height: 40;
+  width: 30%;
+margin-left: 25px;
+margin-bottom: 50px;
+  border-radius: 100%;
+  float: right;
+
+}
+.cooking{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 1.5;
+  padding: 80px;
+
+}
+.butter{
+  float:left;
+  margin-right: 30px;
+ border-radius: 100%;
+ height: 30%;
+ width: 30%;
+}
+.mic{height: 30%;
+width: 30%;
+  float: right;
+
+}
+.contact-me{
+  text-align: center;
+}
+.middle-container{
+  position: relative;
+  margin: 100px 0 100px 0;
+  }
+  .bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+  }
+  .skill-row{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    line-height: 1.5;
+   }
+
+a{
+  color: black;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+.profile{position: relative;
+margin: 0;
+  border-top: 20px;
+}
+.miki{ margin: 20px auto 10px auto;
+
+
+}
+
+.name{
+  font-family:  Chilanka;
+}
+p{font-family: Chilanka;}
+.copyright{font-family: Chilanka;
+padding: 0;
+font-size: 20px;
+padding-bottom:0;
+}
+
+.myButton {
+	box-shadow:inset 0 -1px 0 0 #29bbff;
+	background-color:#66BFBF;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:cursive;
+	font-size:22px;
+	font-weight:bold;
+	padding:12px 11px;
+	text-decoration:none;
+	text-shadow:0 -43px 33px #263666;
+}
+.myButton:hover {
+	background-color:#89b3d6;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
